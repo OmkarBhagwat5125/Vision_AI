@@ -439,25 +439,5 @@ pytest tests/test_vision_tasks.py -v
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
----
-
-## 🙏 Acknowledgments
-
-- [Microsoft Florence-2](https://huggingface.co/microsoft/Florence-2-base) — Foundation vision-language model
-- [Hugging Face](https://huggingface.co/) — Model hosting and Transformers library
-- [Streamlit](https://streamlit.io/) — Web application framework
-- [PyTorch](https://pytorch.org/) — Deep learning framework
-
----
-
-<div align="center">
-
-**Built with 🔮 by [Your Name]**
-
-*On-Device Vision AI — Intelligent Computer Vision. Private. Local. Efficient.*
-
-</div>

@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# Pytest
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Model weights
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Model cache
+model_cache/
+
+# Output files (keep .gitkeep)
+outputs/*.png
+outputs/*.jpg
+outputs/*.jpeg
+!outputs/.gitkeep
+
+# Screenshots (keep .gitkeep)
+screenshots/*.png
+screenshots/*.jpg
+screenshots/*.jpeg
+!screenshots/.gitkeep
+
+# Streamlit
+.streamlit/
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
